@@ -1,10 +1,10 @@
-#Zomato Data Analysis
+# Zomato Data Analysis
 
-##📌 Overview
+## 📌 Overview
 
 This project analyzes Zomato restaurant data to extract insights about food trends, pricing, ratings, and geographical distributions. The dataset includes information on restaurant names, locations, cuisines, price ranges, and customer ratings.
 
-📊 Key Insights
+## 📊 Key Insights
 
 Distribution of restaurant ratings across different cities.
 
@@ -14,7 +14,7 @@ Most popular cuisines and their price variations.
 
 Geographic analysis of restaurants based on location data.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python: Data processing and analysis.
 
@@ -24,7 +24,7 @@ Matplotlib & Seaborn: Data visualization.
 
 Jupyter Notebook: Running and documenting analysis.
 
-##📂 Dataset
+## 📂 Dataset
 
 The dataset consists of restaurant-related attributes such as:
 
@@ -40,7 +40,7 @@ Price Range
 
 Number of Reviews
 
-##📈 Visualizations
+## 📈 Visualizations
 
 Several visualizations were created to uncover trends, including:
 
@@ -70,7 +70,7 @@ jupyter notebook
 
 Run the analysis notebook to generate insights.
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 Implement predictive models for restaurant ratings.
 
